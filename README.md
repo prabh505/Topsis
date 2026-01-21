@@ -119,7 +119,7 @@ The output CSV contains all original columns plus:
 ### Example Output
 
 ```csv
-Model,Corr,R2,RMSE,Accuracy,Topsis Score,Rank
+Model,Criterion1,Criterion2,Criterion3,Criterion4,Topsis Score,Rank
 M1,0.79,0.62,1.25,38.5,0.534,3
 M2,0.66,0.44,2.89,63.7,0.308,5
 M3,0.56,0.31,1.57,42.1,0.373,4
